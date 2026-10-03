@@ -62,6 +62,7 @@ What office/Firm contributions energize me the most?
 
 - Worked with [[senior client, e.g. "the Deputy Minister / CEO"]] on a [[weekly]] basis as a thought partner on priorities, progress and decisions; this kept senior leadership aligned and confident in the program
 - Led senior alignment on [[topic]] with [[stakeholders]]; this created a single leadership-backed roadmap and resolved [[the confusion / disagreement on ...]]
+- Coordinated client outreach and invitations for the Firm's AI and Data Summit in Paris, engaging [[N]] senior leaders to secure names and invitations for [[N]] clients; this [[outcome, e.g. "brought N senior clients from the region to the Summit and deepened Firm relationships with them"]]
 
 ### Communicates Effectively
 

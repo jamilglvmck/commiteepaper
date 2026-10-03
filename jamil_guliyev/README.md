@@ -4,6 +4,10 @@
 - `Guliyev_Jamil_ROYG_Leadership_Growth_Plan.pdf` – rendered version (placeholders highlighted in yellow).
 - `render_lgp.py` – re-renders the PDF: `pip install reportlab && python3 jamil_guliyev/render_lgp.py`
 
+## Pending details from Jamil
+
+- AI and Data Summit (Paris): number of senior leaders engaged, number of clients invited, and the outcome (how many attended, which organizations, any follow-ups).
+
 ## What the peer plans have in common
 
 Structure (identical across all three): Overview (aspiration, goals, excitement, strengths, energizing contributions) →
