@@ -39,8 +39,8 @@ What are my strengths?
 
 What office/Firm contributions energize me the most?
 
-- [[e.g. Supporting recruiting and helping identify strong talent for the office]]
-- [[e.g. Turning project work into reusable knowledge for the Firm through PDs]]
+- Supporting recruiting and coaching candidates, helping attract strong talent to the Azerbaijan and Türkiye offices
+- Building AI capabilities across the Firm and with clients as AI Black Belt faculty and trainer
 
 # How have I contributed to strengthening our Firm this year?
 
@@ -71,8 +71,8 @@ What office/Firm contributions energize me the most?
 
 ### Builds Client Capabilities
 
+- Delivered an AI training to SOCAR Upstream middle management, covering what AI is, how it can optimize their day-to-day work, and which tools are already available to them; this built a practical foundation for AI adoption at the client and positioned the Firm as a thought partner on AI
 - Onboarded and coached the client team on [[tool / methodology]]; this enabled them to [[run it independently / present findings without McK support]]
-- Organized [[N]] trainings on [[topics, e.g. "Finance 101, Excel, problem solving"]] for [[client team]]; this strengthened core capabilities and received positive client feedback
 
 ### Demonstrates Entrepreneurship
 
@@ -80,11 +80,12 @@ What office/Firm contributions energize me the most?
 
 ### Builds Expertise
 
-- [[Co-developed PD "..." / became go-to person locally on ...]]; this converted delivery experience into reusable Firm knowledge
+- Served as faculty for the AI Black Belt training for BAs and Associates, and will next deliver the same program to EMs, Associate Partners and Partners; this helps scale practical AI fluency across all tenure levels and established me as a go-to resource on AI in the office
 
 ### Enriches Firm Talent
 
-- Supported recruiting through [[N]]+ [[HR screening / Round 1]] interviews and coached [[N]] candidates; this helped the office identify and attract strong talent
+- Led the office recruiting event for ~40 prospective candidates for the Azerbaijan and Türkiye offices, joining from across the world, by running a live demo case and coaching participants on how to structure and approach it; this strengthened the candidate pipeline and gave candidates a clear view of what the Firm looks for
+- [[If applicable: Supported recruiting through N+ HR screening / Round 1 interviews]]
 
 ### Apprentices Others
 
@@ -92,7 +93,7 @@ What office/Firm contributions energize me the most?
 
 ### Upholds Values
 
-- [[e.g. Active member of the Experience Council / organized office events]]; this strengthened team health and office culture
+- Built the office per-diem compliance report and run it every two months, reconciling direct billing and Wolt data against the 150 AZN per-diem limit and flagging colleagues who exceed it, who then receive a notification; this gives the office early visibility on overspend and lets it be corrected before audit, reinforcing adherence to Firm expense policy
 - Balanced a demanding delivery agenda with attention to team sustainability through regular check-ins and feedback sessions
 
 ## Who are my mentors/sponsors at the Firm?
