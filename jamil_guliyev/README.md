@@ -7,6 +7,7 @@
 ## Pending details from Jamil
 
 - AI and Data Summit (Paris): number of senior leaders engaged, number of clients invited, and the outcome (how many attended, which organizations, any follow-ups).
+- PASHA Real Estate: your role and start date, team setup, total portfolio CapEx in scope for the forecasting scale-up, and the headline impact number (e.g. forecast accuracy, expected savings %, or value at stake).
 
 ## What the peer plans have in common
 
