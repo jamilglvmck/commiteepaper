@@ -14,7 +14,7 @@ from reportlab.lib.enums import TA_LEFT
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.units import cm
-from reportlab.platypus import ListFlowable, ListItem, Paragraph, SimpleDocTemplate, Spacer
+from reportlab.platypus import KeepTogether, ListFlowable, ListItem, Paragraph, SimpleDocTemplate
 
 HERE = Path(__file__).parent
 NAVY = colors.HexColor("#051C2C")
@@ -72,7 +72,13 @@ def build_story(lines, name):
                     bulletType="bullet", start="\u25e6", leftIndent=12, bulletFontSize=7,
                 ))
             flow_items.append(ListItem(content, leftIndent=12))
-        story.append(ListFlowable(flow_items, bulletType="bullet", start="\u2022", leftIndent=12, bulletFontSize=8))
+        lead = []
+        while story and isinstance(story[-1], Paragraph) and getattr(story[-1].style, "keepWithNext", 0):
+            lead.insert(0, story.pop())
+        first = ListFlowable(flow_items[:1], bulletType="bullet", start="\u2022", leftIndent=12, bulletFontSize=8)
+        story.append(KeepTogether(lead + [first]))
+        if flow_items[1:]:
+            story.append(ListFlowable(flow_items[1:], bulletType="bullet", start="\u2022", leftIndent=12, bulletFontSize=8))
         bullets.clear()
 
     for raw in lines:
