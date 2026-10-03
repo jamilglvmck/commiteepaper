@@ -7,7 +7,8 @@
 ## Pending details from Jamil
 
 - AI and Data Summit (Paris): number of senior leaders engaged, number of clients invited, and the outcome (how many attended, which organizations, any follow-ups).
-- PASHA Real Estate: your role and start date, team setup, total portfolio CapEx in scope for the forecasting scale-up, and the headline impact number (e.g. forecast accuracy, expected savings %, or value at stake).
+- PASHA Real Estate: start date and team setup; number of projects the dataset covers; total spend / CapEx in scope for the scale-up; hardest challenge and how you handled it; any outcome from coaching the BA.
+- Sanity-check: "2+ person-years of manual effort" is an estimate (1.5M records at ~10 seconds each ≈ 4,000+ hours). The client data counterpart's outcome ("sped up and improved the quality of data inputs") is a suggested framing; keep only if you can back it up.
 
 ## What the peer plans have in common
 

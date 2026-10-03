@@ -25,6 +25,7 @@ STYLES = {
     "h1": ParagraphStyle("h1", keepWithNext=1, fontName="Helvetica-Bold", fontSize=12.5, textColor=BLUE, spaceBefore=10, spaceAfter=6),
     "h2": ParagraphStyle("h2", keepWithNext=1, fontName="Helvetica-Bold", fontSize=10, textColor=NAVY, spaceBefore=7, spaceAfter=4),
     "h3": ParagraphStyle("h3", keepWithNext=1, fontName="Helvetica-Bold", fontSize=9.5, textColor=BLUE, spaceBefore=6, spaceAfter=3),
+    "label": ParagraphStyle("label", keepWithNext=1, fontName="Helvetica", fontSize=9, leading=12, spaceAfter=3),
     "body": ParagraphStyle("body", fontName="Helvetica", fontSize=9, leading=12, alignment=TA_LEFT, spaceAfter=3),
 }
 
@@ -88,7 +89,8 @@ def build_story(lines, name):
                 story.append(Paragraph(inline(line[len(prefix):]), STYLES[style]))
                 break
         else:
-            story.append(Paragraph(inline(line), STYLES["body"]))
+            style = "label" if line.startswith("**") and line.endswith("**") else "body"
+            story.append(Paragraph(inline(line), STYLES[style]))
     flush()
     return story
 

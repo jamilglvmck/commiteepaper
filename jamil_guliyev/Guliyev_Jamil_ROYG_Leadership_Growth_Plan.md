@@ -16,26 +16,26 @@ Render with: python3 jamil_guliyev/render_lgp.py
 
 Snapshot of last [[N]] months:
 
-- [[Role, e.g. "JEM'ing" / "Senior BA"]] since [[Month Year]] on PASHA Real Estate, building an AI-enabled end-to-end procurement and tendering platform, in a [[team setup, e.g. "1+1" / "EM + 2 BAs"]] setup
+- Associate since [[Month Year]] on PASHA Real Estate, building an AI-enabled end-to-end procurement and tendering platform, in a [[team setup, e.g. "EM + Associate + BA"]] setup
 
 What are my goals at the Firm for the next 6–18 months?
 
-- Build on my experience leading [[workstream/project]] and continue stepping up on broader leadership responsibilities, moving towards [[next milestone, e.g. "consistently operating at EM level" / "promotion to Associate"]]
-- Deepen expertise in [[functional area/industry]] to become a go-to resource for the office on the topic
+- Build on my experience taking PASHA Real Estate's procurement platform from raw data to deployed tools, and continue stepping up on broader leadership responsibilities, moving towards [[next milestone, e.g. "consistently operating at EM level"]]
+- Deepen expertise in AI- and data-driven transformation in real estate and construction to become a go-to resource for the office on the topic
 - Take a more structured role in coaching junior colleagues and contributing to recruiting and office building
 
 What excites me?
 
-- Moving work from strategy and planning into implementation and visible client impact
+- Moving work from strategy and planning into implementation and tools that clients actually use
 - Building trusted thought-partner relationships with senior clients
-- [[Your own: e.g. "Shaping new opportunities with clients and seeing them turn into follow-on work"]]
+- Using AI agents to change how fast and how deep consulting work can go, and bringing colleagues and clients along
 
 What are my strengths?
 
-- Manages Work/Projects: [[Strong ownership of delivery, prioritization and stakeholder alignment across ...]]
+- Manages Work/Projects: Owns delivery end to end, from data foundation to tools deployed on client servers, keeping construction teams on site and leadership aligned
 - Solves Problems: Turns large, messy operational data into working AI and analytics products, from data engineering and architecture through to forecasting algorithms
-- Counsels Clients / Builds Relationships: Works across the full client organization, from construction teams on site to the C-suite, incl. regular presentations to the CEO of PASHA Real Estate Group
-- Communicates Effectively: [[Develops clear, decision-ready materials for senior audiences ...]]
+- Counsels Clients / Builds Relationships: Works across the full client organization, from construction teams on site to the C-suite, incl. bi-weekly steering committees with the CEO of PASHA Real Estate Group
+- Communicates Effectively: Translates complex data and AI work into clear, decision-ready outputs for senior audiences
 
 What office/Firm contributions energize me the most?
 
@@ -46,44 +46,41 @@ What office/Firm contributions energize me the most?
 
 ## As I Work Toward My Aspiration And Reflect On Previous Development Conversations, How Am I Developing The Relevant Skills And Growing?
 
-### Manages Work/Projects
-
-**PASHA Real Estate – end-to-end procurement and tendering platform:**
-- Since [[Month Year]], [[role]] on the build of an AI-enabled end-to-end procurement and tendering platform, working in close collaboration with the procurement department and with construction teams deployed on site, incl. regular site visits; this grounded the platform in how packages are actually scoped, priced and tendered, and kept it aligned with day-to-day needs on the ground
-- Designed and deployed a review tool that allowed client teams to test the MVP in a user-friendly way, collecting 7,000+ review inputs; this created a structured feedback loop with the client that was used directly to improve the algorithm
-- Set up [[governance / tracking mechanism, e.g. "KPI tracker and weekly performance dialogues"]]; this increased accountability in the team and made progress visible to leadership
-
 ### Solves Problems
 
-**PASHA Real Estate – end-to-end procurement and tendering platform:**
-- Analyzed 350+ procurement packages across all PASHA Real Estate projects, making heavy use of AI agents, and led the data engineering and data architecture work to build a dataset of 1.5M+ construction item records; this created the data foundation for the platform and a single, structured view of construction costs across the portfolio
-- Developed a forecasting algorithm that predicts the CapEx of future buildings, piloted on $10M+ worth of procurement packages and to be scaled to the full PASHA Real Estate portfolio ([[$X Mn CapEx in scope]]); this [[impact, e.g. "gives the client a fact-based baseline for budgeting and negotiating future tenders, with potential savings of X%"]]
-- Identified and corrected [[gap / error / risk]] in [[analysis or plan]]; this [[protected the quality of the final answer / avoided a wrong decision]]
+**PASHA Real Estate – AI-enabled end-to-end procurement and tendering platform:**
+- Tackled a core client pain point: procurement ran on unstructured Excel files, each project worked its own way, and construction and development teams had no shared structure or knowledge base and did not exchange information
+- Analyzed 350+ procurement packages across all PASHA Real Estate projects and built a unified, canonical item library of 1.5M+ construction item records, using AI agents end to end to parse the data, design and build the database, and refine quality in a medallion (bronze/silver/gold) architecture; this replaced an estimated 2+ person-years of manual effort (downloading the packages alone took ~2 weeks) and created the first shared cost knowledge base across construction and development
+- Ran a 2-week structured review of the item library with middle and senior construction managers, collecting 7,000+ review inputs; this lifted library accuracy from the low 60s to the high 90s (%) and led to a redesigned mapping mechanism that matches items on their detailed specifications instead of item to item
+- Built a CapEx forecasting algorithm for future buildings on the gold data layer, enriched with commodity price indexes, piloted on $10M+ of procurement packages and currently landing within ~5% of the client's own estimates; this gives the client an independent, data-driven benchmark for budgeting and is set to scale to the full portfolio ([[$X Mn CapEx in scope]])
+
+### Manages Work/Projects
+
+**PASHA Real Estate – AI-enabled end-to-end procurement and tendering platform:**
+- As Associate, owned the platform build from data foundation to deployed tools, working in close collaboration with the procurement department and with construction teams on site, incl. regular site visits; this grounded the platform in how packages are actually scoped, priced and tendered
+- Designed and deployed, with AI agents, user interfaces on the client's own servers, incl. the review tool for the item library, so client teams could easily access and test the MVP; this brought the client into the build early and turned their expertise into direct improvements to the algorithm
 
 ### Counsels Clients
 
-- Collaborated closely with the Chief Construction Officer and Chief Development Officer of PASHA Real Estate and presented outputs regularly to the CEO of PASHA Real Estate Group; this kept senior leadership aligned on the platform while connecting it to the reality of construction teams on the ground
-- Led senior alignment on [[topic]] with [[stakeholders]]; this created a single leadership-backed roadmap and resolved [[the confusion / disagreement on ...]]
+- Work closely with the Chief Construction Officer and Chief Development Officer of PASHA Real Estate as thought partner on the platform, while staying connected to construction teams on the ground; this kept the solution anchored in both leadership priorities and site-level reality
 - Coordinated client outreach and invitations for the Firm's AI and Data Summit in Paris, engaging [[N]] senior leaders to secure names and invitations for [[N]] clients; this [[outcome, e.g. "brought N senior clients from the region to the Summit and deepened Firm relationships with them"]]
 
 ### Communicates Effectively
 
-- Led the team in producing [[weekly steering documents / N+ CEO- or Minister-level packs]]; this improved decision quality and visibility on progress and bottlenecks
-- Independently facilitated [[N]]+ [[workshops / focus groups / playback sessions]] with [[audience]]; this [[outcome]]
-- Prepared materials presenting results to [[broader stakeholders, e.g. "other ministries / Board"]]; this broadened support for the work beyond the core client team
+- Present outputs to the CEO of PASHA Real Estate Group at bi-weekly steering committees, translating data engineering, accuracy and forecasting results into decisions for leadership; this secured alignment on taking the platform from pilot to a turnkey solution
 
 ### Builds Client Capabilities
 
+- Coached the client's data counterpart, who supports the team on data retrieval, on how to collaborate effectively with consultants and how to feed better into his own team; this sped up and improved the quality of data inputs to the project and strengthened his role as the bridge between the project and his team
 - Delivered an AI training to SOCAR Upstream middle management, covering what AI is, how it can optimize their day-to-day work, and which tools are already available to them; this built a practical foundation for AI adoption at the client and positioned the Firm as a thought partner on AI
-- Onboarded and coached the client team on [[tool / methodology]]; this enabled them to [[run it independently / present findings without McK support]]
 
 ### Demonstrates Entrepreneurship
 
-- Shaped the next phase of [[project]], supporting development of the LOP and proposing [[new topic, e.g. "agentic AI use cases"]]; this helped expand scope and impact for the client
+- Shaping the next phase at PASHA Real Estate: scaling the item library and forecasting to all construction projects as a turnkey solution released to the client, then expanding into tender evaluation, where a unified library and forecasts allow like-for-like comparison of bidders; this extends the work from a pilot into the client's core procurement process
 
 ### Builds Expertise
 
-- Served as faculty for the AI Black Belt training for BAs and Associates, and will next deliver the same program to EMs, Associate Partners and Partners; this helps scale practical AI fluency across all tenure levels and established me as a go-to resource on AI in the office
+- Built hands-on expertise in AI-agent-driven delivery, from data parsing and medallion architecture to forecasting and deploying UIs on client servers, and brought it back to the Firm as faculty for the AI Black Belt training for BAs and Associates; will next deliver the same program to EMs, Associate Partners and Partners, helping scale practical AI fluency across all tenure levels
 
 ### Enriches Firm Talent
 
@@ -92,12 +89,11 @@ What office/Firm contributions energize me the most?
 
 ### Apprentices Others
 
-- Coached [[N]] junior colleagues through [[regular feedback / structured catch-ups]] on [[topics]]; this [[accelerated their ramp-up / helped them act on development needs]]
+- Coaching a fellow BA on the PASHA Real Estate team, building out her overall toolkit, empowering her to build her own client relationships, and introducing her to deeper technology concepts; this [[outcome, e.g. "she now independently leads client sessions on X"]]
 
 ### Upholds Values
 
 - Built the office per-diem compliance report and run it every two months, reconciling direct billing and Wolt data against the 150 AZN per-diem limit and flagging colleagues who exceed it, who then receive a notification; this gives the office early visibility on overspend and lets it be corrected before audit, reinforcing adherence to Firm expense policy
-- Balanced a demanding delivery agenda with attention to team sustainability through regular check-ins and feedback sessions
 
 ## Who are my mentors/sponsors at the Firm?
 
