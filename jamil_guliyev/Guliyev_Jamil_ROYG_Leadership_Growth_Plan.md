@@ -14,10 +14,10 @@ Render with: python3 jamil_guliyev/render_lgp.py
 
 ## What is my professional aspiration?
 
-Snapshot of last [[N]] months:
+Snapshot of last 6 months:
 
-- PASHA Bank ([[Month]]–June 2026): led the Commercial & SME, Private Banking, and Tech & AI streams of the bank's strategy
-- PASHA Real Estate (since July 2026): Associate on the AI Champions Program, responsible for data parsing and processing, the unified item library, client alignment and CAPEX estimation, in a [[team setup, e.g. "EM + Associate + BA"]] setup
+- PASHA Bank (April–July 2026): led the Commercial & SME, Private Banking, and Tech & AI streams of the bank's strategy
+- PASHA Real Estate (July 2026–ongoing): Associate on the AI Champions Program, responsible for data parsing and processing, the unified item library, client alignment and CAPEX estimation, in a [[team setup, e.g. "EM + Associate + BA"]] setup
 
 What are my goals at the Firm for the next 6–18 months?
 
@@ -51,14 +51,14 @@ What office/Firm contributions energize me the most?
 
 **PASHA Bank – bank strategy:**
 - Developed the Commercial & SME strategy of 6 initiatives and 3 enablers (incl. a transaction-banking-led B2B ecosystem, dormant client reactivation and an agentic AI underwriting revamp), sized at ~AZN 60 Mn additional net banking income; this gave leadership a quantified path to AZN 121 Mn NBI by 2029 for a segment trailing CIB on profitability
-- Sized the private banking market bottom-up at ~6.2k eligible individuals and set a fair-share target of ~1,250 clients (~30% share by 2029) through existing CIB relationships, with a segmentation reset at USD 250K+ AUM; this refocused Private Banking on truly wealthy clients and high-touch coverage
+- Sized the private banking market bottom-up at ~6.2k eligible individuals and set a fair-share target of ~1,250 clients (~30% share by 2029) through existing CIB relationships, with a segmentation reset at USD 250K+ AUM and AZN ~39 Mn NBI potential; this refocused Private Banking on truly wealthy clients and high-touch coverage
 - Led the Tech & AI diagnostic, benchmarking AI maturity against 200+ banks and assessing demand management, engineering practices and architecture, and estimated AI value potential at AZN 32–60 Mn (13–24% of pre-tax profit) across 10 value streams; this gave leadership a fact base and five priority actions to move from isolated AI wins to enterprise scale
 
 **PASHA Real Estate – AI Champions Program:**
 - Addressed a core pain point: procurement ran on unstructured Excel files, each project worked its own way, and construction and development teams shared no common structure or knowledge base
-- Built AI agents to extract, clean and unify data from 353 awarded procurement packages since 2023, capturing 284 (80%) with item-level prices in a 1.5M+ record medallion-architecture database; this replaced an estimated 2+ person-years of manual work and created PRE's first shared cost knowledge base
+- Built AI agents to extract, clean and unify data from 353 awarded procurement packages from 2023–2026 (USD 550–700 Mn equivalent), capturing 284 (80%) with item-level prices in a 1.5M+ record medallion-architecture database; this replaced an estimated 2+ person-years of manual work and created PRE's first shared cost knowledge base
 - Ran a 2-week review of the unified item library with middle and senior construction managers, collecting 7,000+ inputs; this lifted accuracy from the low 60s to the high 90s (%) and led to a new mapping mechanism that matches items on detailed specifications
-- Built a CAPEX estimation solution with forecasts at three levels of detail (project brief, concept design and technical design), combining historical bids with commodity price drivers; piloted on $10M+ of packages and applied to a live MEP tender, it landed within ~5% of the client's own estimates
+- Built a CAPEX estimation solution with forecasts at three levels of detail (project brief, concept design and technical design), combining historical bids with commodity price drivers; piloted on a live MEP tender of $10M+, it landed within ~5% of the client's own estimates and is set to scale to the full USD 550–700 Mn portfolio
 
 ### Manages Work/Projects
 

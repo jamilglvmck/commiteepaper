@@ -7,8 +7,8 @@
 ## Pending details from Jamil
 
 - AI and Data Summit (Paris): number of senior leaders engaged, number of clients invited, and the outcome (how many attended, which organizations, any follow-ups).
-- PASHA Real Estate: team setup; total spend / CapEx in scope for the scale-up; hardest challenge and how you handled it; any outcome from coaching the BA.
-- PASHA Bank: start month; team you managed and client counterparts per stream; who you presented to (CEO / Management Board) and what they decided; whether the ~AZN 60 Mn (Commercial & SME), private banking NBI potential (deck shows AZN 39 Mn and 51 Mn scenarios) and AZN 32–60 Mn AI value figures were final or still preliminary.
+- PASHA Real Estate: team setup; hardest challenge and how you handled it; any outcome from coaching the BA.
+- PASHA Bank: team you managed and client counterparts per stream; who you presented to (CEO / Management Board) and what they decided. (Figures confirmed final; private banking NBI potential = AZN 39 Mn.)
 - Source of PASHA Bank / PRE figures: the June 2026 PASHA Bank summary decks and the Aug/Sep 2026 PRE AI Champions updates on branch `jamilglvmck-pashabankmaterials`.
 - Sanity-check: "2+ person-years of manual effort" is an estimate (1.5M records at ~10 seconds each ≈ 4,000+ hours). The client data counterpart's outcome ("sped up and improved the quality of data inputs") is a suggested framing; keep only if you can back it up.
 
