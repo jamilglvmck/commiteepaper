@@ -33,7 +33,7 @@ What excites me?
 
 What are my strengths?
 
-- Solves Problems: Strong combination of strategy and value sizing with hands-on AI and data engineering
+- Solves Problems: Strong at finding the root cause in large, messy data and turning it into quantified solutions, from bank strategy to AI-built forecasts
 - Manages Work/Projects: Strong ownership of delivery end to end, incl. leading several streams in parallel
 - Counsels Clients / Builds Relationships: Trusted counterpart across the full client organization, from construction teams on site to the C-suite
 - Communicates Effectively: Clear, decision-ready materials for C-suite audiences on complex data and AI topics
@@ -50,14 +50,14 @@ What office/Firm contributions energize me the most?
 ### Solves Problems
 
 **PASHA Bank – bank strategy:**
-- Developed the Commercial & SME strategy of 6 initiatives and 3 enablers (e.g. B2B ecosystem, dormant client reactivation, agentic AI underwriting), worth ~60 Mn AZN additional net banking income; this gave leadership a quantified path to 121 Mn AZN NBI by 2029
-- Sized the private banking market bottom-up at ~6.2k individuals and set a ~1,250-client target (~30% share by 2029) via CIB relationships, worth ~39 Mn AZN NBI potential, with a segmentation reset at USD 250K+ AUM; this refocused Private Banking on truly wealthy clients
-- Led the Tech & AI diagnostic, benchmarking AI maturity against 200+ banks and assessing IT demand, engineering and architecture, and sized AI value at 32–60 Mn AZN (13–24% of pre-tax profit); this gave leadership five priority actions to move from isolated AI wins to enterprise scale
+- Diagnosed why SME was loss-making despite high margins: it generated 20% of CIB's NBI at 80% of CIB's OPEX, with 3x+ the NPL ratio and 45% inactive clients (vs. 27% for top-quartile peers); built the Commercial & SME strategy of 6 initiatives and 3 enablers around these root causes (e.g. dormant client reactivation, agentic AI underwriting, B2B ecosystem), worth ~60 Mn AZN additional NBI; this gave leadership a quantified path to 121 Mn AZN NBI by 2029
+- Found that ~85% of Private Banking income came from the top (Heritage) segment, so serving affluent clients under PB stretched coverage without economic return; sized the market bottom-up at ~6.2k individuals and reset PB eligibility at USD 250K+ AUM with a ~1,250-client target (~30% share by 2029), worth ~39 Mn AZN NBI potential; this refocused Private Banking on truly wealthy clients
+- Led the Tech & AI diagnostic, benchmarking AI maturity against 200+ banks and tracing delivery risk to its sources (e.g. 65%+ of 2025 incidents in in-house digital channels, 7 of 26 products below the bank's own test-coverage gate); sized AI value bottom-up at 32–60 Mn AZN (13–24% of pre-tax profit); this gave leadership five priority actions to move from isolated AI wins to enterprise scale
 
 **PASHA Real Estate – AI Champions Program:**
-- Built AI agents to unify 353 awarded procurement packages from 2023–2026 (550–700 Mn USD), 284 with item-level prices, into a 1.5M+ record database, replacing unstructured, project-by-project Excel files; this created PRE's first shared cost knowledge base and saved an estimated 2+ person-years of manual work
-- Ran a 2-week review of the item library with construction managers, collecting 7,000+ inputs; this lifted accuracy from the low 60s to the high 90s (%) and led to a new specification-based mapping mechanism
-- Built a CAPEX estimation solution forecasting at three levels of design detail from historical bids and commodity price drivers; piloted on a live 10+ Mn USD MEP tender, it landed within ~5% of the client's own estimates and is set to scale to the full 550–700 Mn USD portfolio
+- Designed an AI-agent approach that builds a tailored extraction plan for each Excel file, since no two projects used the same format; unified 353 awarded procurement packages from 2023–2026 (550–700 Mn USD), 284 with item-level prices, into a 1.5M+ record database; this created PRE's first shared cost knowledge base and saved an estimated 2+ person-years of manual work
+- Ran a 2-week review of the item library with construction managers (7,000+ inputs) and identified that item-to-item matching missed critical specification differences; this lifted accuracy from the low 60s to the high 90s (%) and led to a redesigned, specification-based mapping mechanism
+- Structured CAPEX estimation around the development lifecycle, with three forecast levels matching the information available at project brief, concept design and technical design, and triangulated top-down (inflation-adjusted winning bids) with bottom-up (material and energy cost drivers); piloted on a live 10+ Mn USD MEP tender, it landed within ~5% of the client's own estimates and is set to scale to the full 550–700 Mn USD portfolio
 
 ### Manages Work/Projects
 
