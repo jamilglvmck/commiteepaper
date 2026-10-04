@@ -33,10 +33,10 @@ What excites me?
 
 What are my strengths?
 
-- Solves Problems: Combines strategy and value sizing with hands-on AI and data engineering
-- Manages Work/Projects: Leads several streams in parallel and owns delivery end to end
-- Counsels Clients / Builds Relationships: Works across the full client organization, from construction teams on site to the C-suite
-- Communicates Effectively: Translates complex data and AI work into decision-ready outputs for the C-suite
+- Solves Problems: Strong combination of strategy and value sizing with hands-on AI and data engineering
+- Manages Work/Projects: Strong ownership of delivery end to end, incl. leading several streams in parallel
+- Counsels Clients / Builds Relationships: Trusted counterpart across the full client organization, from construction teams on site to the C-suite
+- Communicates Effectively: Clear, decision-ready materials for C-suite audiences on complex data and AI topics
 
 What office/Firm contributions energize me the most?
 
@@ -50,14 +50,14 @@ What office/Firm contributions energize me the most?
 ### Solves Problems
 
 **PASHA Bank – bank strategy:**
-- Developed the Commercial & SME strategy of 6 initiatives and 3 enablers (e.g. B2B ecosystem, dormant client reactivation, agentic AI underwriting), worth ~AZN 60 Mn additional net banking income; this gave leadership a quantified path to AZN 121 Mn NBI by 2029
-- Sized the private banking market bottom-up at ~6.2k individuals and set a ~1,250-client target (~30% share by 2029) via CIB relationships, worth AZN ~39 Mn NBI potential, with a segmentation reset at USD 250K+ AUM; this refocused Private Banking on truly wealthy clients
-- Led the Tech & AI diagnostic, benchmarking AI maturity against 200+ banks and assessing IT demand, engineering and architecture, and sized AI value at AZN 32–60 Mn (13–24% of pre-tax profit); this gave leadership five priority actions to move from isolated AI wins to enterprise scale
+- Developed the Commercial & SME strategy of 6 initiatives and 3 enablers (e.g. B2B ecosystem, dormant client reactivation, agentic AI underwriting), worth ~60 Mn AZN additional net banking income; this gave leadership a quantified path to 121 Mn AZN NBI by 2029
+- Sized the private banking market bottom-up at ~6.2k individuals and set a ~1,250-client target (~30% share by 2029) via CIB relationships, worth ~39 Mn AZN NBI potential, with a segmentation reset at USD 250K+ AUM; this refocused Private Banking on truly wealthy clients
+- Led the Tech & AI diagnostic, benchmarking AI maturity against 200+ banks and assessing IT demand, engineering and architecture, and sized AI value at 32–60 Mn AZN (13–24% of pre-tax profit); this gave leadership five priority actions to move from isolated AI wins to enterprise scale
 
 **PASHA Real Estate – AI Champions Program:**
-- Replaced unstructured, project-by-project Excel files with PRE's first shared cost knowledge base: built AI agents to unify 353 awarded procurement packages from 2023–2026 (USD 550–700 Mn), 284 with item-level prices, into a 1.5M+ record database; this replaced an estimated 2+ person-years of manual work
+- Built AI agents to unify 353 awarded procurement packages from 2023–2026 (550–700 Mn USD), 284 with item-level prices, into a 1.5M+ record database, replacing unstructured, project-by-project Excel files; this created PRE's first shared cost knowledge base and saved an estimated 2+ person-years of manual work
 - Ran a 2-week review of the item library with construction managers, collecting 7,000+ inputs; this lifted accuracy from the low 60s to the high 90s (%) and led to a new specification-based mapping mechanism
-- Built a CAPEX estimation solution forecasting at three levels of design detail from historical bids and commodity price drivers; piloted on a live $10M+ MEP tender, it landed within ~5% of the client's own estimates and is set to scale to the full USD 550–700 Mn portfolio
+- Built a CAPEX estimation solution forecasting at three levels of design detail from historical bids and commodity price drivers; piloted on a live 10+ Mn USD MEP tender, it landed within ~5% of the client's own estimates and is set to scale to the full 550–700 Mn USD portfolio
 
 ### Manages Work/Projects
 
@@ -83,7 +83,7 @@ What office/Firm contributions energize me the most?
 
 ### Demonstrates Entrepreneurship
 
-- Shaped the next phase at PASHA Real Estate: a turnkey solution scaled to all construction projects, then tender bid evaluation, where the unified library and forecasts allow like-for-like comparison of bidders; this extends the work from a pilot into PRE's core procurement process
+- Shaped the next phase at PASHA Real Estate: a turnkey solution scaled to all construction projects, then tender bid evaluation, where the unified library and forecasts allow like-for-like comparison of bidders; this extended the work from a pilot into PRE's core procurement process
 
 ### Builds Expertise
 
@@ -99,7 +99,7 @@ What office/Firm contributions energize me the most?
 
 ### Upholds Values
 
-- Built the office per-diem compliance report, run every two months, reconciling direct billing and Wolt data against the 150 AZN limit and flagging overspend; this lets the office correct issues before audit
+- Built the office per-diem compliance report and ran it every two months, reconciling direct billing and Wolt data against the 150 AZN limit and flagging overspend; this allowed the office to correct issues before audit
 
 ## Who are my mentors/sponsors at the Firm?
 
@@ -113,7 +113,7 @@ What office/Firm contributions energize me the most?
 
 ### Counsels Clients / Demonstrates Entrepreneurship
 
-- Contribute actively to client development and proposals with Partners and EMs, e.g. bringing the PASHA Real Estate data-to-CAPEX approach to other PASHA Group companies and real estate clients, and use my C-suite relationships to spot where the Firm can help next
+- Contribute actively to client development and proposals with Partners and EMs, e.g. bringing the PASHA Real Estate data-to-CAPEX approach to other PASHA Group companies and real estate clients, and leverage C-suite relationships to identify where the Firm can help next
 
 ## What support do I need from my mentors/sponsors and the Firm?
 
