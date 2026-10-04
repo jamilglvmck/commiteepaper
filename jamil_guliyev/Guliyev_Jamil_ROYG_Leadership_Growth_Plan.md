@@ -17,11 +17,11 @@ Render with: python3 jamil_guliyev/render_lgp.py
 Snapshot of last [[N]] months:
 
 - PASHA Bank ([[Month]]–June 2026): led the Commercial & SME, Private Banking, and Tech & AI streams of the bank's strategy
-- PASHA Real Estate (since July 2026): Associate on the AI Champions Program, building an AI platform for procurement, CAPEX estimation and tendering, in a [[team setup, e.g. "EM + Associate + BA"]] setup
+- PASHA Real Estate (since July 2026): Associate on the AI Champions Program, responsible for data parsing and processing, the unified item library, client alignment and CAPEX estimation, in a [[team setup, e.g. "EM + Associate + BA"]] setup
 
 What are my goals at the Firm for the next 6–18 months?
 
-- Build on leading multiple streams at PASHA Bank and taking PASHA Real Estate's AI platform from raw data to deployed tools, and continue stepping up towards [[next milestone, e.g. "consistently operating at EM level"]]
+- Build on leading multiple streams at PASHA Bank and taking PASHA Real Estate's procurement data from unstructured Excel files to a unified library and CAPEX estimates, and continue stepping up towards [[next milestone, e.g. "consistently operating at EM level"]]
 - Deepen expertise in AI-driven transformation, from strategy and value sizing through to building and deploying solutions, and become a go-to resource for the office on the topic
 - Take a more structured role in coaching junior colleagues and contributing to recruiting and office building
 
@@ -63,12 +63,13 @@ What office/Firm contributions energize me the most?
 ### Manages Work/Projects
 
 - PASHA Bank: led three strategy streams in parallel, [[managing N BAs / working with N client counterparts]], and delivered them as summary documents for bank leadership in June 2026; this [[outcome, e.g. "kept all three streams on the same timeline and story"]]
-- PASHA Real Estate: owned the build of a single AI platform on Azure (BoQ search engine, CAPEX estimation, project lifecycle management, construction control tower and an AI co-pilot) and deployed the user interfaces on the client's servers so teams could test the MVP early; worked closely with procurement and with construction teams on site, and set up a cross-functional task force (construction, development, procurement) to validate the data; this grounded the platform in how packages are actually scoped, priced and tendered
+- PASHA Real Estate: owned the data-to-estimate chain of the AI Champions Program end to end (data parsing and processing, unified item library and CAPEX estimation) and deployed review interfaces on the client's servers so teams could test the MVP early; this gave the program's other solutions a reliable data foundation to build on
+- Led client alignment on the library and estimates, working closely with procurement and with construction teams on site and setting up a cross-functional task force (construction, development, procurement) to validate the data; this grounded the solution in how packages are actually scoped, priced and tendered
 
 ### Counsels Clients
 
 - PASHA Bank: engaged senior leaders, incl. the COO, Chief Security Officer, Head of Data Science and MD of IT Operations, to define the bank's Tech & AI ambition and priorities; this [[outcome]]
-- PASHA Real Estate: worked closely with the Chief Construction Officer and Chief Development Officer as thought partner on the platform; this kept the solution anchored in both leadership priorities and site-level reality
+- PASHA Real Estate: worked closely with the Chief Construction Officer and Chief Development Officer as thought partner on the item library and CAPEX estimates; this kept the solution anchored in both leadership priorities and site-level reality
 - Coordinated client outreach and invitations for the Firm's AI and Data Summit in Paris, engaging [[N]] senior leaders to secure invitations for [[N]] clients; this [[outcome]]
 
 ### Communicates Effectively
