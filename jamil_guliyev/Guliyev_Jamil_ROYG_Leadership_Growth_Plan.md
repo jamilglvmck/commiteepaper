@@ -21,7 +21,7 @@ Snapshot of last 6 months:
 
 What are my goals at the Firm for the next 6–18 months?
 
-- Build on leading multiple streams at PASHA Bank and PASHA Real Estate and continue stepping up towards [[next milestone, e.g. "consistently operating at EM level"]]
+- Build on leading multiple streams at PASHA Bank and PASHA Real Estate and continue stepping up towards JEM'ing my next study
 - Deepen expertise in AI-driven transformation, from strategy and value sizing to deployed solutions, and become a go-to resource for the office
 - Take a more structured role in coaching junior colleagues and contributing to recruiting and office building
 
@@ -109,7 +109,7 @@ What office/Firm contributions energize me the most?
 
 ### Apprentices Others
 
-- Move from informal coaching to formally managing BAs: structuring and delegating their work, setting clear expectations and giving regular feedback, as my next step towards EM responsibilities
+- Move from informal coaching to formally managing BAs: structuring and delegating their work, setting clear expectations and giving regular feedback, as preparation for JEM'ing
 
 ### Counsels Clients / Demonstrates Entrepreneurship
 
@@ -119,7 +119,7 @@ What office/Firm contributions energize me the most?
 
 - Staffing where I can directly manage a BA
 - Involvement in client development and proposal work alongside Partners and EMs
-- Feedback on my leadership style as I take on more EM-level responsibilities
+- Feedback on my leadership style as I prepare to JEM
 
 ## Will this plan give me energy and how can I make it sustainable for me, both personally and professionally?
 
@@ -129,6 +129,6 @@ Yes. The plan combines what gives me the most energy: building AI solutions clie
 
 ## What are the top 3 topics, if any, I would like to discuss with my DGL?
 
-- What I need to demonstrate to [[next milestone, e.g. "operate at EM level"]]
+- What I need to demonstrate to be ready to JEM, and what a realistic timeline looks like
 - How to get involved in client development and proposals in the coming months
 - Staffing options that let me manage a BA directly
