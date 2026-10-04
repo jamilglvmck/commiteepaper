@@ -16,8 +16,8 @@ Render with: python3 jamil_guliyev/render_lgp.py
 
 Snapshot of last 6 months:
 
-- PASHA Bank (April–July 2026): led the Commercial & SME, Private Banking, and Tech & AI streams of the bank's strategy
-- PASHA Real Estate (July 2026–ongoing): Associate on the AI Champions Program, responsible for data parsing and processing, the unified item library, client alignment and CAPEX estimation, in a [[team setup, e.g. "EM + Associate + BA"]] setup
+- PASHA Bank (April–July 2026): led the Commercial & SME, Private Banking, and Tech & AI streams of the bank's strategy, in a 1 EM + 1 JEM + 1 Associate + 1 BA + 2 C&I specialists setup
+- PASHA Real Estate (July 2026–ongoing): Associate on the AI Champions Program, responsible for data parsing and processing, the unified item library, client alignment and CAPEX estimation, in a 1 EM + 1 Associate + 1 BA + 1 QuantumBlack data scientist setup
 
 What are my goals at the Firm for the next 6–18 months?
 
@@ -62,20 +62,20 @@ What office/Firm contributions energize me the most?
 
 ### Manages Work/Projects
 
-- PASHA Bank: led three strategy streams in parallel, [[managing N BAs / working with N client counterparts]], and delivered them as summary documents for bank leadership in June 2026; this [[outcome, e.g. "kept all three streams on the same timeline and story"]]
+- PASHA Bank: led three of the strategy streams in parallel, collaborating closely with the bank's strategy and finance teams to source data and build and test hypotheses; this brought all three streams to final summary documents for bank leadership within the 3-month engagement
 - PASHA Real Estate: owned the data-to-estimate chain of the AI Champions Program end to end (data parsing and processing, unified item library and CAPEX estimation) and deployed review interfaces on the client's servers so teams could test the MVP early; this gave the program's other solutions a reliable data foundation to build on
 - Led client alignment on the library and estimates, working closely with procurement and with construction teams on site and setting up a cross-functional task force (construction, development, procurement) to validate the data; this grounded the solution in how packages are actually scoped, priced and tendered
 
 ### Counsels Clients
 
-- PASHA Bank: engaged senior leaders, incl. the COO, Chief Security Officer, Head of Data Science and MD of IT Operations, to define the bank's Tech & AI ambition and priorities; this [[outcome]]
+- PASHA Bank: interviewed managing directors, directors and C-suite leaders, incl. the COO, Chief Security Officer, Head of Data Science and MD of IT Operations, to shape strategic priorities and the bank's Tech & AI ambition; this grounded the recommendations in leadership's own view of challenges and ambition
 - PASHA Real Estate: worked closely with the Chief Construction Officer and Chief Development Officer as thought partner on the item library and CAPEX estimates; this kept the solution anchored in both leadership priorities and site-level reality
-- Coordinated client outreach and invitations for the Firm's AI and Data Summit in Paris, engaging [[N]] senior leaders to secure invitations for [[N]] clients; this [[outcome]]
+- Coordinated client nominations for the Firm's AI and Data Summit in Paris, collecting input from 13 Firm leaders to submit 49 clients from 26 distinct organizations; this gave the Firm a broad, senior client list from the region for one of its flagship AI events
 
 ### Communicates Effectively
 
 - Presented PASHA Real Estate progress to the CEO of PASHA Real Estate Group at bi-weekly steering committees, using live demos of the platform; this secured alignment on moving from pilot to a turnkey solution
-- [[PASHA Bank: presented strategy and Tech & AI results to the CEO / Management Board; this ...]]
+- Presented PASHA Bank strategy and Tech & AI results to the CEO and C-suite on a weekly basis; this kept bank leadership closely engaged in shaping the strategy throughout the engagement
 
 ### Builds Client Capabilities
 
@@ -97,7 +97,7 @@ What office/Firm contributions energize me the most?
 
 ### Apprentices Others
 
-- Coached a fellow BA on the PASHA Real Estate team, building out her toolkit, helping her build her own client relationships and introducing her to deeper technology concepts; this [[outcome, e.g. "she now independently leads client sessions on X"]]
+- Actively coached and guided the fellow BA on the PASHA Real Estate team, building out her toolkit, helping her build her own client relationships and introducing her to deeper technology concepts; this broadened her development beyond core analytics into client-facing and technical work
 
 ### Upholds Values
 
