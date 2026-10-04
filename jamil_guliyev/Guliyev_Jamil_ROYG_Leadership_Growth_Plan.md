@@ -17,12 +17,12 @@ Render with: python3 jamil_guliyev/render_lgp.py
 Snapshot of last 6 months:
 
 - PASHA Bank (April–July 2026): led the Commercial & SME, Private Banking, and Tech & AI streams of the bank's strategy, in a 1 EM + 1 JEM + 1 Associate + 1 BA + 2 C&I specialists setup
-- PASHA Real Estate (July 2026–ongoing): Associate on the AI Champions Program, responsible for data parsing and processing, the unified item library, client alignment and CAPEX estimation, in a 1 EM + 1 Associate + 1 BA + 1 QuantumBlack data scientist setup
+- PASHA Real Estate (July 2026–ongoing): AI Champions Program, responsible for data processing, the unified item library, client alignment and CAPEX estimation, in a 1 EM + 1 Associate + 1 BA + 1 QuantumBlack data scientist setup
 
 What are my goals at the Firm for the next 6–18 months?
 
-- Build on leading multiple streams at PASHA Bank and taking PASHA Real Estate's procurement data from unstructured Excel files to a unified library and CAPEX estimates, and continue stepping up towards [[next milestone, e.g. "consistently operating at EM level"]]
-- Deepen expertise in AI-driven transformation, from strategy and value sizing through to building and deploying solutions, and become a go-to resource for the office on the topic
+- Build on leading multiple streams at PASHA Bank and PASHA Real Estate and continue stepping up towards [[next milestone, e.g. "consistently operating at EM level"]]
+- Deepen expertise in AI-driven transformation, from strategy and value sizing to deployed solutions, and become a go-to resource for the office
 - Take a more structured role in coaching junior colleagues and contributing to recruiting and office building
 
 What excites me?
@@ -33,10 +33,10 @@ What excites me?
 
 What are my strengths?
 
-- Solves Problems: Combines strategy and value sizing with hands-on AI and data engineering, from market sizing and business cases to forecasting algorithms
-- Manages Work/Projects: Leads several streams in parallel and owns delivery end to end, from data foundation to tools deployed on client servers
+- Solves Problems: Combines strategy and value sizing with hands-on AI and data engineering
+- Manages Work/Projects: Leads several streams in parallel and owns delivery end to end
 - Counsels Clients / Builds Relationships: Works across the full client organization, from construction teams on site to the C-suite
-- Communicates Effectively: Translates complex data and AI work into clear, decision-ready outputs for senior audiences
+- Communicates Effectively: Translates complex data and AI work into decision-ready outputs for the C-suite
 
 What office/Firm contributions energize me the most?
 
@@ -50,58 +50,56 @@ What office/Firm contributions energize me the most?
 ### Solves Problems
 
 **PASHA Bank – bank strategy:**
-- Developed the Commercial & SME strategy of 6 initiatives and 3 enablers (incl. a transaction-banking-led B2B ecosystem, dormant client reactivation and an agentic AI underwriting revamp), sized at ~AZN 60 Mn additional net banking income; this gave leadership a quantified path to AZN 121 Mn NBI by 2029 for a segment trailing CIB on profitability
-- Sized the private banking market bottom-up at ~6.2k eligible individuals and set a fair-share target of ~1,250 clients (~30% share by 2029) through existing CIB relationships, with a segmentation reset at USD 250K+ AUM and AZN ~39 Mn NBI potential; this refocused Private Banking on truly wealthy clients and high-touch coverage
-- Led the Tech & AI diagnostic, benchmarking AI maturity against 200+ banks and assessing demand management, engineering practices and architecture, and estimated AI value potential at AZN 32–60 Mn (13–24% of pre-tax profit) across 10 value streams; this gave leadership a fact base and five priority actions to move from isolated AI wins to enterprise scale
+- Developed the Commercial & SME strategy of 6 initiatives and 3 enablers (e.g. B2B ecosystem, dormant client reactivation, agentic AI underwriting), worth ~AZN 60 Mn additional net banking income; this gave leadership a quantified path to AZN 121 Mn NBI by 2029
+- Sized the private banking market bottom-up at ~6.2k individuals and set a ~1,250-client target (~30% share by 2029) via CIB relationships, worth AZN ~39 Mn NBI potential, with a segmentation reset at USD 250K+ AUM; this refocused Private Banking on truly wealthy clients
+- Led the Tech & AI diagnostic, benchmarking AI maturity against 200+ banks and assessing IT demand, engineering and architecture, and sized AI value at AZN 32–60 Mn (13–24% of pre-tax profit); this gave leadership five priority actions to move from isolated AI wins to enterprise scale
 
 **PASHA Real Estate – AI Champions Program:**
-- Addressed a core pain point: procurement ran on unstructured Excel files, each project worked its own way, and construction and development teams shared no common structure or knowledge base
-- Built AI agents to extract, clean and unify data from 353 awarded procurement packages from 2023–2026 (USD 550–700 Mn equivalent), capturing 284 (80%) with item-level prices in a 1.5M+ record medallion-architecture database; this replaced an estimated 2+ person-years of manual work and created PRE's first shared cost knowledge base
-- Ran a 2-week review of the unified item library with middle and senior construction managers, collecting 7,000+ inputs; this lifted accuracy from the low 60s to the high 90s (%) and led to a new mapping mechanism that matches items on detailed specifications
-- Built a CAPEX estimation solution with forecasts at three levels of detail (project brief, concept design and technical design), combining historical bids with commodity price drivers; piloted on a live MEP tender of $10M+, it landed within ~5% of the client's own estimates and is set to scale to the full USD 550–700 Mn portfolio
+- Replaced unstructured, project-by-project Excel files with PRE's first shared cost knowledge base: built AI agents to unify 353 awarded procurement packages from 2023–2026 (USD 550–700 Mn), 284 with item-level prices, into a 1.5M+ record database; this replaced an estimated 2+ person-years of manual work
+- Ran a 2-week review of the item library with construction managers, collecting 7,000+ inputs; this lifted accuracy from the low 60s to the high 90s (%) and led to a new specification-based mapping mechanism
+- Built a CAPEX estimation solution forecasting at three levels of design detail from historical bids and commodity price drivers; piloted on a live $10M+ MEP tender, it landed within ~5% of the client's own estimates and is set to scale to the full USD 550–700 Mn portfolio
 
 ### Manages Work/Projects
 
-- PASHA Bank: led three of the strategy streams in parallel, collaborating closely with the bank's strategy and finance teams to source data and build and test hypotheses; this brought all three streams to final summary documents for bank leadership within the 3-month engagement
-- PASHA Real Estate: owned the data-to-estimate chain of the AI Champions Program end to end (data parsing and processing, unified item library and CAPEX estimation) and deployed review interfaces on the client's servers so teams could test the MVP early; this gave the program's other solutions a reliable data foundation to build on
-- Led client alignment on the library and estimates, working closely with procurement and with construction teams on site and setting up a cross-functional task force (construction, development, procurement) to validate the data; this grounded the solution in how packages are actually scoped, priced and tendered
+- PASHA Bank: led three strategy streams in parallel, working closely with the bank's strategy and finance teams on data and hypotheses; this brought all three to final leadership documents within the 3-month engagement
+- PASHA Real Estate: owned the data-to-estimate chain end to end (data processing, item library, CAPEX estimation) and deployed review interfaces on the client's servers; this let client teams test and shape the MVP early
+- Led client alignment with procurement and construction teams on site, incl. a cross-functional task force to validate the data; this grounded the solution in how packages are actually scoped, priced and tendered
 
 ### Counsels Clients
 
-- PASHA Bank: interviewed managing directors, directors and C-suite leaders, incl. the COO, Chief Security Officer, Head of Data Science and MD of IT Operations, to shape strategic priorities and the bank's Tech & AI ambition; this grounded the recommendations in leadership's own view of challenges and ambition
-- PASHA Real Estate: worked closely with the Chief Construction Officer and Chief Development Officer as thought partner on the item library and CAPEX estimates; this kept the solution anchored in both leadership priorities and site-level reality
+- PASHA Bank: interviewed managing directors, directors and C-suite leaders (e.g. COO, Chief Security Officer) to shape strategic priorities and Tech & AI ambition; this grounded the recommendations in leadership's own view
+- PASHA Real Estate: worked closely with the Chief Construction Officer and Chief Development Officer as thought partner; this kept the solution anchored in both leadership priorities and site-level reality
 - Coordinated client nominations for the Firm's AI and Data Summit in Paris, collecting input from 13 Firm leaders to submit 49 clients from 26 distinct organizations; this gave the Firm a broad, senior client list from the region for one of its flagship AI events
 
 ### Communicates Effectively
 
-- Presented PASHA Real Estate progress to the CEO of PASHA Real Estate Group at bi-weekly steering committees, using live demos of the platform; this secured alignment on moving from pilot to a turnkey solution
-- Presented PASHA Bank strategy and Tech & AI results to the CEO and C-suite on a weekly basis; this kept bank leadership closely engaged in shaping the strategy throughout the engagement
+- Presented to the CEO and C-suite of PASHA Bank weekly; this kept bank leadership closely engaged in shaping the strategy
+- Presented to the CEO of PASHA Real Estate Group at bi-weekly steering committees with live demos; this secured alignment on moving from pilot to a turnkey solution
 
 ### Builds Client Capabilities
 
 - Coached PASHA Real Estate's data counterpart on how to work effectively with consultants and feed better into his own team; this improved the speed and quality of data inputs to the project
-- Delivered an AI training to SOCAR Upstream middle management on what AI is, how it can optimize their daily work and which tools they already have; this built a practical foundation for AI adoption at the client
+- Delivered an AI training to SOCAR Upstream middle management on how AI and their existing tools can optimize daily work; this built a practical foundation for AI adoption
 
 ### Demonstrates Entrepreneurship
 
-- Shaped the next phase at PASHA Real Estate: scaling the item library and CAPEX estimation to all construction projects as a turnkey solution, then expanding into tender bid evaluation, where a unified library and forecasts allow like-for-like comparison of bidders; this extended the work from a pilot into PRE's core procurement process
+- Shaped the next phase at PASHA Real Estate: a turnkey solution scaled to all construction projects, then tender bid evaluation, where the unified library and forecasts allow like-for-like comparison of bidders; this extends the work from a pilot into PRE's core procurement process
 
 ### Builds Expertise
 
-- Built hands-on expertise in AI-agent-driven delivery, from data extraction and architecture to forecasting and deployed applications, and brought it back to the Firm as faculty for the AI Black Belt training for BAs and Associates; next delivering the program to EMs, Associate Partners and Partners
+- Built hands-on expertise in AI-agent-driven delivery, from data extraction to forecasting and deployed applications, and brought it back to the Firm as faculty for the AI Black Belt training for BAs and Associates; next delivering it to EMs, Associate Partners and Partners
 
 ### Enriches Firm Talent
 
-- Led the office recruiting event for ~40 prospective candidates for the Azerbaijan and Türkiye offices, running a live demo case and coaching participants on how to structure and approach it; this strengthened the candidate pipeline and showed candidates what the Firm looks for
-- [[If applicable: Supported recruiting through N+ HR screening / Round 1 interviews]]
+- Led the office recruiting event for ~40 candidates for the Azerbaijan and Türkiye offices, running a live demo case and coaching participants on case approach; this strengthened the candidate pipeline
 
 ### Apprentices Others
 
-- Actively coached and guided the fellow BA on the PASHA Real Estate team, building out her toolkit, helping her build her own client relationships and introducing her to deeper technology concepts; this broadened her development beyond core analytics into client-facing and technical work
+- Actively coached the fellow BA at PASHA Real Estate on her toolkit, client relationships and deeper technology concepts; this broadened her development beyond core analytics
 
 ### Upholds Values
 
-- Built the office per-diem compliance report and ran it every two months, reconciling direct billing and Wolt data against the 150 AZN limit and flagging colleagues who exceed it; this gives the office early visibility on overspend before audit and reinforces Firm expense policy
+- Built the office per-diem compliance report, run every two months, reconciling direct billing and Wolt data against the 150 AZN limit and flagging overspend; this lets the office correct issues before audit
 
 ## Who are my mentors/sponsors at the Firm?
 
@@ -109,29 +107,28 @@ What office/Firm contributions energize me the most?
 
 # Looking Ahead
 
-<!-- Pick 2 dimensions where you want to grow next. Be honest and specific: what you will do differently and why. -->
+### Apprentices Others
 
-### [[Development dimension 1, e.g. Apprentices Others]]
+- Move from informal coaching to formally managing BAs: structuring and delegating their work, setting clear expectations and giving regular feedback, as my next step towards EM responsibilities
 
-- [[What you want to build and how, e.g. "Coach junior colleagues in a structured way within the project, practicing how I structure and delegate tasks and adapt to different working styles"]]
+### Counsels Clients / Demonstrates Entrepreneurship
 
-### [[Development dimension 2, e.g. Demonstrates Entrepreneurship]]
-
-- [[e.g. "Play a more active role in shaping new opportunities with existing clients, moving from supporting LOPs to leading the problem definition"]]
+- Contribute actively to client development and proposals with Partners and EMs, e.g. bringing the PASHA Real Estate data-to-CAPEX approach to other PASHA Group companies and real estate clients, and use my C-suite relationships to spot where the Firm can help next
 
 ## What support do I need from my mentors/sponsors and the Firm?
 
-- [[e.g. "Feedback on how to strengthen my leadership style as I take on more EM-level responsibilities"]]
-- [[e.g. "Staffing on a project with a larger team / in a new industry or geography"]]
+- Staffing where I can directly manage a BA
+- Involvement in client development and proposal work alongside Partners and EMs
+- Feedback on my leadership style as I take on more EM-level responsibilities
 
 ## Will this plan give me energy and how can I make it sustainable for me, both personally and professionally?
 
-Yes. [[Why it energizes you, e.g. "The work combines leadership, visible client impact, problem solving and colleague development."]] [[How you keep it sustainable, e.g. "I will proactively schedule 1-1s with my mentors and protect time to re-energize."]]
+Yes. The plan combines what gives me the most energy: building AI solutions clients actually use, working with senior clients and developing colleagues. To keep it sustainable, I will proactively schedule regular 1-1s with my mentors and protect time to re-energize between intense delivery phases.
 
 # [Optional] Additional Considerations
 
 ## What are the top 3 topics, if any, I would like to discuss with my DGL?
 
-- [[Topic 1, e.g. "What should I focus on to be ready for the next tenure milestone"]]
-- [[Topic 2]]
-- [[Topic 3]]
+- What I need to demonstrate to [[next milestone, e.g. "operate at EM level"]]
+- How to get involved in client development and proposals in the coming months
+- Staffing options that let me manage a BA directly
